@@ -1,0 +1,38 @@
+  body {
+      font-family: 'Arial', sans-serif;
+      margin: 20px;
+      text-align: center;
+      background-color: black;
+      color: #FFF;
+    }
+    table {
+      width: 80%;
+      margin: 20px auto;
+      border-collapse: collapse;
+      border: 1px solid #FFF;
+    }
+    th, td {
+      padding: 12px;
+      text-align: center;
+      border: 1px solid #FFF;
+    }
+    th {
+      background-color: #4CAF50;
+      color: white;
+    }
+    .pass {
+      color: green;
+      font-weight: bold;
+    }
+    .fail {
+      color: red;
+      font-weight: bold;
+    }
+    .total {
+      margin-top: 20px;
+      font-size: 18px;
+    }
+    .header {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
